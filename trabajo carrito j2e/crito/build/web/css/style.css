@@ -1,0 +1,450 @@
+body{
+	background: url('../img/Fondo4.jpg');
+
+}
+.boton{
+        font-size:20px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:5px;
+        width:200px;
+        height:29px;
+       }
+       
+ .enlace{cursor:default;}
+
+#cabecera{
+
+	text-align: center;
+	font-size: 50px;
+	/*font-style: arial;*/
+	/*background: pink;*/
+	/*height: 80%;
+	width: 10%;*/
+	height: 300px;
+	width: auto;
+}
+
+#cabTitulo{
+
+	color: white;
+	float: left;
+	margin-bottom: 30px;
+	margin-left: 500px;
+}
+
+#logo{
+	/*background: pink;*/
+	background-image: url('../img/logo.png');
+	background-repeat: no-repeat;
+	height: 250px;
+	width: 400px;
+}
+#menu{
+	/*background: lightblue;*/
+	font-size: 20px;
+	height: 80px;
+	width: 100%;
+	/*float: left;*/
+	
+}
+.claseLista li {
+
+	color: white;
+	list-style: none;
+	float: left;
+	margin-left: 150px;
+	/*padding-left: 50px;*//*Desde primer elemento*/
+}
+.listaIz li{
+	color: transparent;
+	list-style: none;
+	/*color: turquoise;*/
+	float: left;
+	margin-left: 50px;
+	margin-top: 30px;
+        
+}
+
+#latiz{
+	/*background: purple;*/
+	height: 100%;
+	width: 100px; 
+	float: left;
+	text-align: left;
+        color: transparent;
+        padding-left: 30%;
+}
+#central{
+	color: white;
+	/*background: #cc3453;*/
+	height: 600px;
+	width: 75%;
+	float: left;
+        text-align: center;
+}
+
+
+
+#tablaCen{
+	
+	width: 100%;
+	margin-left: 100px;
+	margin-top: 20px;
+
+}
+#imgTabla11{
+
+	background-image: url('../img/TB11.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	width: 189px;
+}
+
+#imgTabla12{
+
+	background-image: url('../img/TB12.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	width: 189px;
+}
+#imgTabla13{
+
+	background-image: url('../img/TB13.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	width: 189px;
+}
+#imgTabla14{
+
+	background-image: url('../img/TB14.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	width: 189px;
+}
+#imgTabla21{
+
+	background-image: url('../img/TB21.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	margin-top: 100px;
+	width: 189px;
+}
+#imgTabla22{
+
+	background-image: url('../img/TB22.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	margin-top: 100px;
+	width: 189px;
+}
+
+#imgTabla23{
+
+	background-image: url('../img/TB23.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	margin-top: 100px;
+	width: 189px;
+}
+#imgTabla24{
+
+	background-image: url('../img/TB24.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	margin-top: 100px;
+	width: 189px;
+}
+#imgTabla31{
+
+	background-image: url('../img/TB31.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	margin-top: 100px;
+	width: 189px;
+}
+#imgTabla32{
+
+	background-image: url('../img/TB32.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	margin-top: 100px;
+	width: 189px;
+}
+#imgTabla33{
+
+	background-image: url('../img/TB33.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	margin-top: 100px;
+	width: 189px;
+}
+#imgTabla34{
+
+	background-image: url('../img/TB34.jpg');
+	background-repeat: no-repeat;
+	height: 146px;
+	margin-top: 100px;
+	width: 189px;
+}
+
+#texTabla{
+	 
+	
+	color: white;
+	height: 36px;
+	margin-top: 20px;
+
+}
+#latde{
+	/*background: purple;*/
+	height: 600px;
+	width: 15%; 
+	float: left;
+}
+#pie{
+	text-align: center;
+	font-size: 30px;
+	/*background: pink;*/
+	height: 200px;
+	float: bottom;
+        width: 100%;
+}
+
+#piePag{
+
+	color: white;
+	text-align: left;
+	float: left;
+	font-size: 20px;
+}
+/*Imagen Cental 50% + Descripcion lateral derecho 35%
+Descaripcion parafo
+*/
+#centralDes{
+	color: white;
+	/*background: #cc3453;*/
+	height: 600px;
+	width: 50%;
+	float: left;
+}
+
+#latDerechoDes{
+	/*background: purple;*/
+	height: 600px;
+	width: 40%; 
+	float: left;
+}
+
+#desImg{
+
+	
+	color: white;
+	margin-top: 10%;
+	text-align:  left;
+	
+}
+
+/* SeraphHeavy.HTML*/
+
+#imgCentralSeraph{
+
+	background-image: url('../img/SeraphHeavy.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+
+/* SeraphLeather.HTML*/
+
+#imgCentralSeraphL{
+
+	background-image: url('../img/SeraphLeather.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+/* SeraphRobe.HTML*/
+
+#imgCentralSeraphR{
+
+	background-image: url('../img/SeraphRobe.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+
+/* EternalHeavy.HTML*/
+#imgCentralEternal{
+
+	background-image: url('../img/EternalHeavy.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+
+/* EternalLeather.HTML*/
+#imgCentralEternalL{
+
+	background-image: url('../img/EternalLeather.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+/* EternalRobe.HTML*/
+#imgCentralEternalR{
+
+	background-image: url('../img/EternalRobe.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+/* ImmortalLeather.HTML*/
+#imgCentralImmortalL{
+
+	background-image: url('../img/ImmortalLeather.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+/* ImmortalHeavy.HTML*/
+#imgCentralImmortal{
+
+	background-image: url('../img/ImmortalHeavy.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+
+/* ImmortalRobe.HTML*/
+#imgCentralImmortalR{
+
+	background-image: url('../img/ImmortalRobe.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+/* TwilightLeather.HTML*/
+#imgCentralTwilightL{
+
+	background-image: url('../img/TwilightLeather.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+
+/* TwilightHeavy.HTML*/
+#imgCentralTwilight{
+
+	background-image: url('../img/TwilightHeavy.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+/* TwilightRobe.HTML*/
+#imgCentralTwilightR{
+
+	background-image: url('../img/TwilightRobe.jpg');
+	background-repeat: no-repeat;
+	height: 640px;
+	width: 320px;
+	margin-left: 20%;
+	margin-top: 20px;
+
+}
+
+
+ul, ol {
+	list-style:none;       
+}
+			
+.nav > li {
+        float:left;
+        margin-left: 200px;
+}
+			
+.nav li a {
+	background-color:#000;
+	color:#fff;
+	text-decoration:none;
+	padding:10px 12px;
+	display:block;
+}
+			
+.nav li a:hover {
+	background-color:#434343;
+}
+			
+.nav li ul {
+	display:none;
+	position:absolute;
+	min-width:140px;
+}
+			
+.nav li:hover > ul {
+	display:block;
+}
+			
+.nav li ul li {
+	position:relative;
+}
+			
+.nav li ul li ul {
+	right:140px;
+        top:0px;
+}
+
+.centro {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 150px;
+    height: 500px;
+    text-align: center;
+    overflow: visible;
+}
+.centro2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 480px;
+    text-align: center;
+    overflow: hidden;
+    color: white;
+}
+
+
